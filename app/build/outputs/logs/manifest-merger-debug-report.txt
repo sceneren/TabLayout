@@ -1,0 +1,186 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/scene/Desktop/work space/EasyBehavior/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /Users/scene/Desktop/work space/EasyBehavior/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /Users/scene/Desktop/work space/EasyBehavior/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /Users/scene/Desktop/work space/EasyBehavior/app/src/main/AndroidManifest.xml:2:1-24:12
+MERGED from [com.jaeger.statusbarutil:library:1.4.0] /Users/scene/.gradle/caches/transforms-1/files-1.1/jetified-library-1.4.0.aar/5d80970fd7e43c882720decc8c80b751/AndroidManifest.xml:2:1-13:12
+MERGED from [com.google.android.material:material:1.0.0] /Users/scene/.gradle/caches/transforms-1/files-1.1/material-1.0.0.aar/d86bb443b5efc1a830d4b8b90252dcd3/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.0.0] /Users/scene/.gradle/caches/transforms-1/files-1.1/appcompat-1.0.0.aar/73737ddcb67514e49dba776c12edde1e/AndroidManifest.xml:17:1-22:12
+MERGED from [:tabLayoutLibrary] /Users/scene/Desktop/work space/EasyBehavior/tabLayoutLibrary/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:2:1-14:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/scene/.gradle/caches/transforms-1/files-1.1/legacy-support-v4-1.0.0.aar/66e56dd7925df4cdafba6f8319588dd6/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /Users/scene/.gradle/caches/transforms-1/files-1.1/recyclerview-1.0.0.aar/87c1d0745cdb3f366de2ce61b6e4986e/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/scene/.gradle/caches/transforms-1/files-1.1/fragment-1.0.0.aar/f95c674719888d72612a486d9cfccc23/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/scene/.gradle/caches/transforms-1/files-1.1/vectordrawable-animated-1.0.0.aar/9dac0441c6f1a0172807beb720ed34ce/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/scene/.gradle/caches/transforms-1/files-1.1/legacy-support-core-ui-1.0.0.aar/d70cb2e2e6045f51c266bcfc01c0d9df/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/scene/.gradle/caches/transforms-1/files-1.1/legacy-support-core-utils-1.0.0.aar/662a898991e9808fa37212c307d51e96/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media:media:1.0.0] /Users/scene/.gradle/caches/transforms-1/files-1.1/media-1.0.0.aar/c5fd1d2b43ce5418c0f898b36123d325/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/scene/.gradle/caches/transforms-1/files-1.1/loader-1.0.0.aar/b5545fbe6716273c26a072a6122f60a3/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/scene/.gradle/caches/transforms-1/files-1.1/viewpager-1.0.0.aar/a4d596705ae407030c972c4bac83260d/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/scene/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-1.0.0.aar/c94876091a05a767f98ed29ff8daa64c/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/scene/.gradle/caches/transforms-1/files-1.1/drawerlayout-1.0.0.aar/a82a45c9d4ee1f723a60d8674e78ffdc/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/scene/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-1.0.0.aar/831d253f7d2ab37c3412bc3827ca1986/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/scene/.gradle/caches/transforms-1/files-1.1/customview-1.0.0.aar/d42b639a9e8471b9835ffa62024d9036/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/scene/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-1.0.0.aar/7860c11be11a837489c701c66db416f5/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/scene/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-1.0.0.aar/56258013419521adce4090b64af8d45a/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] /Users/scene/.gradle/caches/transforms-1/files-1.1/vectordrawable-1.0.0.aar/28c3eb532e3be24347a8fbe94c816093/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.0.0] /Users/scene/.gradle/caches/transforms-1/files-1.1/transition-1.0.0.aar/f76e68d274a8456b879689800a04b7fd/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.0] /Users/scene/.gradle/caches/transforms-1/files-1.1/core-1.0.0.aar/515e3c2098936b7ba259a742c3ccd230/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/scene/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.0.0.aar/b7638cda45579885dd0208908008d506/AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/scene/.gradle/caches/transforms-1/files-1.1/lifecycle-runtime-2.0.0.aar/d96f53ba3037143659773e5e7159b42c/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/scene/.gradle/caches/transforms-1/files-1.1/documentfile-1.0.0.aar/dfa640733699d6ac4a832f36aaf8795c/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/scene/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-1.0.0.aar/1655a1eb332c633e8bc4366c9aeb05a8/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/scene/.gradle/caches/transforms-1/files-1.1/print-1.0.0.aar/4626d6ccdd09c3872837eae749da841a/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/scene/.gradle/caches/transforms-1/files-1.1/lifecycle-viewmodel-2.0.0.aar/1d931c2e0a0f7da78890f8cf4ce46b18/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/scene/.gradle/caches/transforms-1/files-1.1/interpolator-1.0.0.aar/8c290b5dc8d874a67e19ebf5d17d7794/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/scene/.gradle/caches/transforms-1/files-1.1/cursoradapter-1.0.0.aar/642b4ac380089d181f91b146e9c85bc8/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/scene/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-2.0.0.aar/56314a74ea64e649ae907b8be839e3e1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/scene/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-core-2.0.0.aar/934d3101d815e8d4dc9656eac48d3717/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/scene/.gradle/caches/transforms-1/files-1.1/core-runtime-2.0.0.aar/489fd91a48ae9f21c8e75c2045493777/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/scene/.gradle/caches/transforms-1/files-1.1/cardview-1.0.0.aar/5ba9e3b85057f0e76d8ee116d388de17/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/scene/Desktop/work space/EasyBehavior/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /Users/scene/Desktop/work space/EasyBehavior/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /Users/scene/Desktop/work space/EasyBehavior/app/src/main/AndroidManifest.xml:2:1-24:12
+	package
+		ADDED from /Users/scene/Desktop/work space/EasyBehavior/app/src/main/AndroidManifest.xml:4:5-37
+		INJECTED from /Users/scene/Desktop/work space/EasyBehavior/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/scene/Desktop/work space/EasyBehavior/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/scene/Desktop/work space/EasyBehavior/app/src/main/AndroidManifest.xml
+		ADDED from /Users/scene/Desktop/work space/EasyBehavior/app/src/main/AndroidManifest.xml:2:1-24:12
+		INJECTED from /Users/scene/Desktop/work space/EasyBehavior/app/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/scene/Desktop/work space/EasyBehavior/app/src/main/AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from /Users/scene/Desktop/work space/EasyBehavior/app/src/main/AndroidManifest.xml
+		ADDED from /Users/scene/Desktop/work space/EasyBehavior/app/src/main/AndroidManifest.xml:2:1-24:12
+		INJECTED from /Users/scene/Desktop/work space/EasyBehavior/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/scene/Desktop/work space/EasyBehavior/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /Users/scene/Desktop/work space/EasyBehavior/app/src/main/AndroidManifest.xml:7:5-22:19
+MERGED from [com.jaeger.statusbarutil:library:1.4.0] /Users/scene/.gradle/caches/transforms-1/files-1.1/jetified-library-1.4.0.aar/5d80970fd7e43c882720decc8c80b751/AndroidManifest.xml:11:5-20
+MERGED from [com.jaeger.statusbarutil:library:1.4.0] /Users/scene/.gradle/caches/transforms-1/files-1.1/jetified-library-1.4.0.aar/5d80970fd7e43c882720decc8c80b751/AndroidManifest.xml:11:5-20
+MERGED from [com.google.android.material:material:1.0.0] /Users/scene/.gradle/caches/transforms-1/files-1.1/material-1.0.0.aar/d86bb443b5efc1a830d4b8b90252dcd3/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.0.0] /Users/scene/.gradle/caches/transforms-1/files-1.1/material-1.0.0.aar/d86bb443b5efc1a830d4b8b90252dcd3/AndroidManifest.xml:22:5-20
+MERGED from [:tabLayoutLibrary] /Users/scene/Desktop/work space/EasyBehavior/tabLayoutLibrary/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:9:5-12:19
+MERGED from [:tabLayoutLibrary] /Users/scene/Desktop/work space/EasyBehavior/tabLayoutLibrary/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:9:5-12:19
+MERGED from [androidx.core:core:1.0.0] /Users/scene/.gradle/caches/transforms-1/files-1.1/core-1.0.0.aar/515e3c2098936b7ba259a742c3ccd230/AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.0] /Users/scene/.gradle/caches/transforms-1/files-1.1/core-1.0.0.aar/515e3c2098936b7ba259a742c3ccd230/AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/scene/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.0.0.aar/b7638cda45579885dd0208908008d506/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/scene/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.0.0.aar/b7638cda45579885dd0208908008d506/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.0] /Users/scene/.gradle/caches/transforms-1/files-1.1/core-1.0.0.aar/515e3c2098936b7ba259a742c3ccd230/AndroidManifest.xml:22:18-86
+	android:supportsRtl
+		ADDED from /Users/scene/Desktop/work space/EasyBehavior/app/src/main/AndroidManifest.xml:12:9-35
+	android:label
+		ADDED from /Users/scene/Desktop/work space/EasyBehavior/app/src/main/AndroidManifest.xml:10:9-41
+	android:roundIcon
+		ADDED from /Users/scene/Desktop/work space/EasyBehavior/app/src/main/AndroidManifest.xml:11:9-54
+	android:icon
+		ADDED from /Users/scene/Desktop/work space/EasyBehavior/app/src/main/AndroidManifest.xml:9:9-43
+	android:allowBackup
+		ADDED from /Users/scene/Desktop/work space/EasyBehavior/app/src/main/AndroidManifest.xml:8:9-35
+		REJECTED from [:tabLayoutLibrary] /Users/scene/Desktop/work space/EasyBehavior/tabLayoutLibrary/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:10:9-36
+	android:theme
+		ADDED from /Users/scene/Desktop/work space/EasyBehavior/app/src/main/AndroidManifest.xml:13:9-40
+	tools:replace
+		ADDED from /Users/scene/Desktop/work space/EasyBehavior/app/src/main/AndroidManifest.xml:14:9-44
+activity#me.stefan.easybehavior.Demo1Activity
+ADDED from /Users/scene/Desktop/work space/EasyBehavior/app/src/main/AndroidManifest.xml:15:9-21:20
+	android:theme
+		ADDED from /Users/scene/Desktop/work space/EasyBehavior/app/src/main/AndroidManifest.xml:15:51-86
+	android:name
+		ADDED from /Users/scene/Desktop/work space/EasyBehavior/app/src/main/AndroidManifest.xml:15:19-48
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/scene/Desktop/work space/EasyBehavior/app/src/main/AndroidManifest.xml:16:13-20:29
+action#android.intent.action.MAIN
+ADDED from /Users/scene/Desktop/work space/EasyBehavior/app/src/main/AndroidManifest.xml:17:17-69
+	android:name
+		ADDED from /Users/scene/Desktop/work space/EasyBehavior/app/src/main/AndroidManifest.xml:17:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/scene/Desktop/work space/EasyBehavior/app/src/main/AndroidManifest.xml:19:17-77
+	android:name
+		ADDED from /Users/scene/Desktop/work space/EasyBehavior/app/src/main/AndroidManifest.xml:19:27-74
+uses-sdk
+INJECTED from /Users/scene/Desktop/work space/EasyBehavior/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/scene/Desktop/work space/EasyBehavior/app/src/main/AndroidManifest.xml
+INJECTED from /Users/scene/Desktop/work space/EasyBehavior/app/src/main/AndroidManifest.xml
+MERGED from [com.jaeger.statusbarutil:library:1.4.0] /Users/scene/.gradle/caches/transforms-1/files-1.1/jetified-library-1.4.0.aar/5d80970fd7e43c882720decc8c80b751/AndroidManifest.xml:7:5-9:41
+MERGED from [com.jaeger.statusbarutil:library:1.4.0] /Users/scene/.gradle/caches/transforms-1/files-1.1/jetified-library-1.4.0.aar/5d80970fd7e43c882720decc8c80b751/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.material:material:1.0.0] /Users/scene/.gradle/caches/transforms-1/files-1.1/material-1.0.0.aar/d86bb443b5efc1a830d4b8b90252dcd3/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.0.0] /Users/scene/.gradle/caches/transforms-1/files-1.1/material-1.0.0.aar/d86bb443b5efc1a830d4b8b90252dcd3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.0] /Users/scene/.gradle/caches/transforms-1/files-1.1/appcompat-1.0.0.aar/73737ddcb67514e49dba776c12edde1e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.0] /Users/scene/.gradle/caches/transforms-1/files-1.1/appcompat-1.0.0.aar/73737ddcb67514e49dba776c12edde1e/AndroidManifest.xml:20:5-44
+MERGED from [:tabLayoutLibrary] /Users/scene/Desktop/work space/EasyBehavior/tabLayoutLibrary/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:5:5-7:41
+MERGED from [:tabLayoutLibrary] /Users/scene/Desktop/work space/EasyBehavior/tabLayoutLibrary/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/scene/.gradle/caches/transforms-1/files-1.1/legacy-support-v4-1.0.0.aar/66e56dd7925df4cdafba6f8319588dd6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/scene/.gradle/caches/transforms-1/files-1.1/legacy-support-v4-1.0.0.aar/66e56dd7925df4cdafba6f8319588dd6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /Users/scene/.gradle/caches/transforms-1/files-1.1/recyclerview-1.0.0.aar/87c1d0745cdb3f366de2ce61b6e4986e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /Users/scene/.gradle/caches/transforms-1/files-1.1/recyclerview-1.0.0.aar/87c1d0745cdb3f366de2ce61b6e4986e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/scene/.gradle/caches/transforms-1/files-1.1/fragment-1.0.0.aar/f95c674719888d72612a486d9cfccc23/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/scene/.gradle/caches/transforms-1/files-1.1/fragment-1.0.0.aar/f95c674719888d72612a486d9cfccc23/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/scene/.gradle/caches/transforms-1/files-1.1/vectordrawable-animated-1.0.0.aar/9dac0441c6f1a0172807beb720ed34ce/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/scene/.gradle/caches/transforms-1/files-1.1/vectordrawable-animated-1.0.0.aar/9dac0441c6f1a0172807beb720ed34ce/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/scene/.gradle/caches/transforms-1/files-1.1/legacy-support-core-ui-1.0.0.aar/d70cb2e2e6045f51c266bcfc01c0d9df/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/scene/.gradle/caches/transforms-1/files-1.1/legacy-support-core-ui-1.0.0.aar/d70cb2e2e6045f51c266bcfc01c0d9df/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/scene/.gradle/caches/transforms-1/files-1.1/legacy-support-core-utils-1.0.0.aar/662a898991e9808fa37212c307d51e96/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/scene/.gradle/caches/transforms-1/files-1.1/legacy-support-core-utils-1.0.0.aar/662a898991e9808fa37212c307d51e96/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /Users/scene/.gradle/caches/transforms-1/files-1.1/media-1.0.0.aar/c5fd1d2b43ce5418c0f898b36123d325/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /Users/scene/.gradle/caches/transforms-1/files-1.1/media-1.0.0.aar/c5fd1d2b43ce5418c0f898b36123d325/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/scene/.gradle/caches/transforms-1/files-1.1/loader-1.0.0.aar/b5545fbe6716273c26a072a6122f60a3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/scene/.gradle/caches/transforms-1/files-1.1/loader-1.0.0.aar/b5545fbe6716273c26a072a6122f60a3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/scene/.gradle/caches/transforms-1/files-1.1/viewpager-1.0.0.aar/a4d596705ae407030c972c4bac83260d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/scene/.gradle/caches/transforms-1/files-1.1/viewpager-1.0.0.aar/a4d596705ae407030c972c4bac83260d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/scene/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-1.0.0.aar/c94876091a05a767f98ed29ff8daa64c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/scene/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-1.0.0.aar/c94876091a05a767f98ed29ff8daa64c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/scene/.gradle/caches/transforms-1/files-1.1/drawerlayout-1.0.0.aar/a82a45c9d4ee1f723a60d8674e78ffdc/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/scene/.gradle/caches/transforms-1/files-1.1/drawerlayout-1.0.0.aar/a82a45c9d4ee1f723a60d8674e78ffdc/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/scene/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-1.0.0.aar/831d253f7d2ab37c3412bc3827ca1986/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/scene/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-1.0.0.aar/831d253f7d2ab37c3412bc3827ca1986/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/scene/.gradle/caches/transforms-1/files-1.1/customview-1.0.0.aar/d42b639a9e8471b9835ffa62024d9036/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/scene/.gradle/caches/transforms-1/files-1.1/customview-1.0.0.aar/d42b639a9e8471b9835ffa62024d9036/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/scene/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-1.0.0.aar/7860c11be11a837489c701c66db416f5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/scene/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-1.0.0.aar/7860c11be11a837489c701c66db416f5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/scene/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-1.0.0.aar/56258013419521adce4090b64af8d45a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/scene/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-1.0.0.aar/56258013419521adce4090b64af8d45a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] /Users/scene/.gradle/caches/transforms-1/files-1.1/vectordrawable-1.0.0.aar/28c3eb532e3be24347a8fbe94c816093/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] /Users/scene/.gradle/caches/transforms-1/files-1.1/vectordrawable-1.0.0.aar/28c3eb532e3be24347a8fbe94c816093/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] /Users/scene/.gradle/caches/transforms-1/files-1.1/transition-1.0.0.aar/f76e68d274a8456b879689800a04b7fd/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] /Users/scene/.gradle/caches/transforms-1/files-1.1/transition-1.0.0.aar/f76e68d274a8456b879689800a04b7fd/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.0] /Users/scene/.gradle/caches/transforms-1/files-1.1/core-1.0.0.aar/515e3c2098936b7ba259a742c3ccd230/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.0] /Users/scene/.gradle/caches/transforms-1/files-1.1/core-1.0.0.aar/515e3c2098936b7ba259a742c3ccd230/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/scene/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.0.0.aar/b7638cda45579885dd0208908008d506/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/scene/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.0.0.aar/b7638cda45579885dd0208908008d506/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/scene/.gradle/caches/transforms-1/files-1.1/lifecycle-runtime-2.0.0.aar/d96f53ba3037143659773e5e7159b42c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/scene/.gradle/caches/transforms-1/files-1.1/lifecycle-runtime-2.0.0.aar/d96f53ba3037143659773e5e7159b42c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/scene/.gradle/caches/transforms-1/files-1.1/documentfile-1.0.0.aar/dfa640733699d6ac4a832f36aaf8795c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/scene/.gradle/caches/transforms-1/files-1.1/documentfile-1.0.0.aar/dfa640733699d6ac4a832f36aaf8795c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/scene/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-1.0.0.aar/1655a1eb332c633e8bc4366c9aeb05a8/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/scene/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-1.0.0.aar/1655a1eb332c633e8bc4366c9aeb05a8/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/scene/.gradle/caches/transforms-1/files-1.1/print-1.0.0.aar/4626d6ccdd09c3872837eae749da841a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/scene/.gradle/caches/transforms-1/files-1.1/print-1.0.0.aar/4626d6ccdd09c3872837eae749da841a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/scene/.gradle/caches/transforms-1/files-1.1/lifecycle-viewmodel-2.0.0.aar/1d931c2e0a0f7da78890f8cf4ce46b18/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/scene/.gradle/caches/transforms-1/files-1.1/lifecycle-viewmodel-2.0.0.aar/1d931c2e0a0f7da78890f8cf4ce46b18/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/scene/.gradle/caches/transforms-1/files-1.1/interpolator-1.0.0.aar/8c290b5dc8d874a67e19ebf5d17d7794/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/scene/.gradle/caches/transforms-1/files-1.1/interpolator-1.0.0.aar/8c290b5dc8d874a67e19ebf5d17d7794/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/scene/.gradle/caches/transforms-1/files-1.1/cursoradapter-1.0.0.aar/642b4ac380089d181f91b146e9c85bc8/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/scene/.gradle/caches/transforms-1/files-1.1/cursoradapter-1.0.0.aar/642b4ac380089d181f91b146e9c85bc8/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/scene/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-2.0.0.aar/56314a74ea64e649ae907b8be839e3e1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/scene/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-2.0.0.aar/56314a74ea64e649ae907b8be839e3e1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/scene/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-core-2.0.0.aar/934d3101d815e8d4dc9656eac48d3717/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/scene/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-core-2.0.0.aar/934d3101d815e8d4dc9656eac48d3717/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/scene/.gradle/caches/transforms-1/files-1.1/core-runtime-2.0.0.aar/489fd91a48ae9f21c8e75c2045493777/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/scene/.gradle/caches/transforms-1/files-1.1/core-runtime-2.0.0.aar/489fd91a48ae9f21c8e75c2045493777/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/scene/.gradle/caches/transforms-1/files-1.1/cardview-1.0.0.aar/5ba9e3b85057f0e76d8ee116d388de17/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/scene/.gradle/caches/transforms-1/files-1.1/cardview-1.0.0.aar/5ba9e3b85057f0e76d8ee116d388de17/AndroidManifest.xml:20:5-44
+INJECTED from /Users/scene/Desktop/work space/EasyBehavior/app/src/main/AndroidManifest.xml
+INJECTED from /Users/scene/Desktop/work space/EasyBehavior/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/scene/Desktop/work space/EasyBehavior/app/src/main/AndroidManifest.xml
+		ADDED from /Users/scene/Desktop/work space/EasyBehavior/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/scene/Desktop/work space/EasyBehavior/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/scene/Desktop/work space/EasyBehavior/app/src/main/AndroidManifest.xml
+		ADDED from /Users/scene/Desktop/work space/EasyBehavior/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/scene/Desktop/work space/EasyBehavior/app/src/main/AndroidManifest.xml

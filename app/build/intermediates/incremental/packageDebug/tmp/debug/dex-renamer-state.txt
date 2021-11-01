@@ -1,0 +1,4 @@
+#Tue Nov 03 11:04:01 CST 2020
+base.0=/Users/scene/Desktop/work space/EasyBehavior/app/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
